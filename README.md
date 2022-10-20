@@ -1,3 +1,3 @@
 # kyle
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?KyleHilbert= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?KyleHilbert&theme=radical)
